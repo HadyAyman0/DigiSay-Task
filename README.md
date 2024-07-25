@@ -1,7 +1,12 @@
 # React + Vite
 
 # Todo List App
+![alt text](image-1.png)
 
+![alt text](image-2.png)
+
+## Mobile Version : 
+![alt text](iPhone-13-PRO-localhost.png)
 ## Description
 This is a simple Todo List application built using React. The app allows users to add, remove, and mark tasks as completed. The project leverages modern web technologies and libraries to provide a smooth and responsive user experience.
 
@@ -14,7 +19,7 @@ This is a simple Todo List application built using React. The app allows users t
 ### 6. **Formik (Forms)**
 ### 7. **Yup (Validition)**
 ### 8. **React Awesome Reveal (for animations)  **
-### 9. **JSON Server (for local data hosting ) (npx json-server --watch db.json --port 5001 ) **
+### 9. **JSON Server (for local data hosting ) (npx json-server --watch db.json --port 5000 ) **
 
 
 ## Features
